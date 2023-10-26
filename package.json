@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/CherryCola-zjl/node.git",
   "author": "z <502242791@qq.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.14.1"
+  }
 }
